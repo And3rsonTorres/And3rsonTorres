@@ -101,14 +101,19 @@ Originally from the Dominican Republic 🇩🇴, but now calling Massachusetts h
 
 ## Featured Projects
 
+<!-- START_SECTION:featured-projects -->
 <p align="center">
   <a href="https://github.com/And3rsonTorres/TowWise" target="_blank">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=And3rsonTorres&repo=TowWise&theme=neon" alt="TowWise" />
   </a>
-  <a href="https://github.com/And3rsonTorres/AndersonTorres" target="_blank">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=And3rsonTorres&repo=AndersonTorres&theme=neon" alt="AndersonTorres Portfolio" />
+  <a href="https://github.com/And3rsonTorres/EasyNoteAudio" target="_blank">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=And3rsonTorres&repo=EasyNoteAudio&theme=neon" alt="EasyNoteAudio" />
+  </a>
+  <a href="https://github.com/And3rsonTorres/CPP_Porfolio" target="_blank">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=And3rsonTorres&repo=CPP_Porfolio&theme=neon" alt="CPP_Porfolio" />
   </a>
 </p>
+<!-- END_SECTION:featured-projects -->
 
 ---
 
